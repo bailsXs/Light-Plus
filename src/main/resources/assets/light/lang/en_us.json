@@ -1,0 +1,10 @@
+{
+  "block.light.white_light_concrete": "White Light Concrete",
+  "block.light.red_light_concrete": "Red Light Concrete",
+  "block.light.blue_light_concrete": "Blue Light Concrete",
+  "block.light.green_light_concrete": "Green Light Concrete",
+  "block.light.black_light_concrete": "Black Light Concrete",
+  "block.light.yellow_light_concrete": "Yellow Light Concrete",
+  "block.light.gray_light_concrete": "Gray Light Concrete",
+  "itemGroup.light.light_plus": "Light+"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "CCC",
+    "CGC",
+    "CCC"
+  ],
+  "key": {
+    "C": "minecraft:gray_concrete",
+    "G": "minecraft:glowstone"
+  },
+  "result": {
+    "id": "light:gray_light_concrete",
+    "count": 8
+  }
+}

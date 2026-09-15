@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "light:white_light_concrete",
+    "light:red_light_concrete",
+    "light:blue_light_concrete",
+    "light:green_light_concrete",
+    "light:black_light_concrete",
+    "light:yellow_light_concrete",
+    "light:gray_light_concrete"
+  ]
+}
