@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "light:block/cyan_light_concrete"
+  }
+}

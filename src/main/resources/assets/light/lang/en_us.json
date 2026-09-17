@@ -1,10 +1,20 @@
 {
+  "itemGroup.light.light_plus": "Light+",
+
   "block.light.white_light_concrete": "White Light Concrete",
-  "block.light.red_light_concrete": "Red Light Concrete",
-  "block.light.blue_light_concrete": "Blue Light Concrete",
-  "block.light.green_light_concrete": "Green Light Concrete",
-  "block.light.black_light_concrete": "Black Light Concrete",
-  "block.light.yellow_light_concrete": "Yellow Light Concrete",
+  "block.light.light_gray_light_concrete": "Light Gray Light Concrete",
   "block.light.gray_light_concrete": "Gray Light Concrete",
-  "itemGroup.light.light_plus": "Light+"
+  "block.light.black_light_concrete": "Black Light Concrete",
+  "block.light.brown_light_concrete": "Brown Light Concrete",
+  "block.light.red_light_concrete": "Red Light Concrete",
+  "block.light.orange_light_concrete": "Orange Light Concrete",
+  "block.light.yellow_light_concrete": "Yellow Light Concrete",
+  "block.light.lime_light_concrete": "Lime Light Concrete",
+  "block.light.green_light_concrete": "Green Light Concrete",
+  "block.light.cyan_light_concrete": "Cyan Light Concrete",
+  "block.light.light_blue_light_concrete": "Light Blue Light Concrete",
+  "block.light.blue_light_concrete": "Blue Light Concrete",
+  "block.light.purple_light_concrete": "Purple Light Concrete",
+  "block.light.magenta_light_concrete": "Magenta Light Concrete",
+  "block.light.pink_light_concrete": "Pink Light Concrete"
 }

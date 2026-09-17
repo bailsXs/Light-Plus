@@ -26,12 +26,21 @@ public class ModCreativeTabs {
                                     .getDefaultInstance())
                             .displayItems((parameters, output) -> {
                                 output.accept(ModBlocks.WHITE_LIGHT_CONCRETE_ITEM.get());
-                                output.accept(ModBlocks.RED_LIGHT_CONCRETE_ITEM.get());
-                                output.accept(ModBlocks.BLUE_LIGHT_CONCRETE_ITEM.get());
-                                output.accept(ModBlocks.GREEN_LIGHT_CONCRETE_ITEM.get());
-                                output.accept(ModBlocks.BLACK_LIGHT_CONCRETE_ITEM.get());
-                                output.accept(ModBlocks.YELLOW_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.LIGHT_GRAY_LIGHT_CONCRETE_ITEM.get());
                                 output.accept(ModBlocks.GRAY_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.BLACK_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.BROWN_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.RED_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.ORANGE_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.YELLOW_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.LIME_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.GREEN_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.CYAN_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.LIGHT_BLUE_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.BLUE_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.PURPLE_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.MAGENTA_LIGHT_CONCRETE_ITEM.get());
+                                output.accept(ModBlocks.PINK_LIGHT_CONCRETE_ITEM.get());
                             })
                             .build()
             );

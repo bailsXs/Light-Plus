@@ -1,0 +1,6 @@
+{
+  "parent": "light:block/template/light_concrete",
+  "textures": {
+    "all": "light:block/concrete/orange_light_concrete/orange_light_concrete"
+  }
+}

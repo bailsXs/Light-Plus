@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "light:block/template/light_concrete",
   "textures": {
-    "all": "minecraft:block/red_concrete"
+    "all": "light:block/concrete/red_light_concrete/red_light_concrete"
   }
 }

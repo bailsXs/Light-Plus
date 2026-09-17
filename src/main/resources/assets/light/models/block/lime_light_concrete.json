@@ -1,6 +1,6 @@
 {
   "parent": "light:block/template/light_concrete",
   "textures": {
-    "all": "light:block/concrete/blue_light_concrete/blue_light_concrete"
+    "all": "light:block/concrete/lime_light_concrete/lime_light_concrete"
   }
 }
